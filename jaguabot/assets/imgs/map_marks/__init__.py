@@ -1,0 +1,3 @@
+"""
+All tibia map marks
+"""
