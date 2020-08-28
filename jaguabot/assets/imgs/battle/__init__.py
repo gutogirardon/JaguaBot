@@ -1,0 +1,3 @@
+"""
+Jaguabot - Battle Images Package
+"""

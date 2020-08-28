@@ -1,0 +1,3 @@
+"""
+Jaguabot - Healthy Images Package
+"""

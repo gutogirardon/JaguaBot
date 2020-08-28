@@ -1,0 +1,3 @@
+"""
+Jaguabot - Assets, Librarys, Images
+"""

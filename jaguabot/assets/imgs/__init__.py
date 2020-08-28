@@ -1,0 +1,3 @@
+"""
+Jaguabot - Images Package
+"""
